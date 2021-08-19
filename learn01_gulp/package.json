@@ -1,0 +1,26 @@
+{
+  "name": "learn01_gulp",
+  "version": "1.0.0",
+  "description": "学习gulp 01",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihaiucom/learn.gulp.git"
+  },
+  "keywords": [
+    "learn",
+    "gulp"
+  ],
+  "author": "zf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihaiucom/learn.gulp/issues"
+  },
+  "homepage": "https://github.com/ihaiucom/learn.gulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
